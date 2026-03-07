@@ -1,0 +1,1 @@
+import{j as e}from"./index-DmX-7eLD.js";import"./syntax-CaxXQ8ka.js";function r(){return e.jsx("section",{className:"flex p-10 h-50 bg-gray-100 dark:bg-gray-900 rounded-xl",children:e.jsx("h1",{className:"bg-red-800 text-white font-bold px-5 py-3 rounded-2xl cursor-pointer mx-auto my-auto",children:"Not Previewable as Component"})})}export{r as default};

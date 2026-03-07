@@ -1,0 +1,1 @@
+import{j as t}from"./index-DmX-7eLD.js";import"./syntax-CaxXQ8ka.js";function o(){return t.jsx("button",{className:"bg-red-800 text-white font-bold px-5 py-3 rounded-2xl cursor-pointer mx-auto my-auto",children:"Button"})}export{o as default};
